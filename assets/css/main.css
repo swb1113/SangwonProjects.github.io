@@ -29,6 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+#my{
+	zoom: 80%;
+}
+
 body {
 	line-height: 1;
 }
